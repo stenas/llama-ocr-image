@@ -1,0 +1,15 @@
+Install Ollama prompt
+https://ollama.com/download/windows
+
+LLM
+ollama run llama3.2-vision
+
+Python
+https://www.python.org/downloads/
+
+Python Lib
+pip install requests Pillow
+pip install -U ollama
+
+Run Command
+python ollama-ocr.py
